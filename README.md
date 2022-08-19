@@ -1,2 +1,2 @@
 # Order-summary-page
-Front end mentor challenge
+A simple subscription order summary page using HTML and CSS as part of a challenge by frontendmentor.io
